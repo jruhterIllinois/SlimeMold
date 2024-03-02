@@ -368,6 +368,10 @@ void * ANNet_Organism_trn(ORGANISM_t * orgnsm_x, void * in, void * out)
 
 
 /* Static example */
+//Right now the Neural Net is a simple example of XOR as implented in -
+//"An Introduction to Optimization" by Edwin Chong and Stanislaw H ZaK
+
+
 void * ANNet(void * args)
 {
 
